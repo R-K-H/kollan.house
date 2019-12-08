@@ -20,5 +20,3 @@ And in impartiality one can really truly experience listening, no agenda on wher
 While this is a shift in mindset and verbiage and looks really simple, it’s one of the most challenging shifts I’ve ever encountered, and it comes up again in nonviolent communication and a myriad of other exercises and approaches.
 
 What can be done today? How will you do it?
-
-You are glorious, you are magic, you are. Good morning beautiful.

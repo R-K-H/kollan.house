@@ -4,7 +4,7 @@ author: Kollan
 tags: [To A Mirror]
 image: img/jeremy-bishop-BuQ-jgeexaQ-unsplash.jpg
 date: "2019-10-14T10:00:00.000Z"
-draft: false
+draft: true
 ---
 
 “It does not matter how slowly you go as long as you do not stop.”

@@ -31,9 +31,6 @@ Now, though, where are our fears, what can be done, how do we face them? Do we n
 
 That’s left for you to decide, but in taking even the smallest of steps, it takes us down the longest of roads.
 
-Love of my life, my soulmate, may you be kissed by the gods and graced with a clear mind and a life without fear. Though we may feel certain ways and emotions come and go, in all of your journeys remember your reflections, bask in a way to become grounded and continue your growth, for it ALWAYS pays off.
+Though we may feel certain ways and emotions come and go, in all of your journeys remember your reflections, bask in a way to become grounded and continue your growth, for it ALWAYS pays off.
 
 You are not who you pretend to be, and are not what others expect of you. You are you, what others see is a reflection of that, and can be nothing more, nothing less. And we are but mirrors to others, picking up and putting on what they do, so be careful who you are a mirror for.
-
-Good morning, good day, good night! For we exist in all forever. Hug yourself, love yourself for you are the infinite.
-

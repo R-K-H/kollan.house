@@ -27,5 +27,5 @@ But you get to, you have that. Maybe not now, maybe several lifetimes from now (
 
 Again not claiming perfection (as if it really exists at all) nor am I saying everything is finalized. Just that the components are there and they’re built very well and are very strong.
 
-So stand strong. Live lightly. Enjoy every last bit. Good morning cloud cover, rain and the bliss of existence. For that is what is gracing me, and that is most certainly one aspect (and one that is loved) of you.
+So stand strong. Live lightly. Enjoy every last bit.
 

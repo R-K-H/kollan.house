@@ -19,10 +19,4 @@ What change are you experiencing? What are you assuming will always stay the sam
 
 In this wonderful world filled with spectacular sights, beautiful experiences and fantastic people, you are certainly someone who has tasted a bit of all. I’m jealous. I’m envious. Because your life is destined for greatness, and even this little glimpse, is absolutely awesome.
 
-Have a great day, get some work done, think about things, don’t think about things, walk your dog, love your family and the list of opportunities goes on and on, and on.
-
-Smile, for you deserve to be happy. And that smile is to die for.
-
-Good morning.
-
-
+Smile, for you deserve to be happy.

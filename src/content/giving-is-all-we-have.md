@@ -28,5 +28,3 @@ what you did not have, and I gave you
 what I had to give—together, we made
 something greater from the difference.
  – Alberto Rios
-
-Good morning sweets. Have a wonderful day!

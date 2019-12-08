@@ -7,12 +7,7 @@ date: "2019-10-07T10:00:00.000Z"
 draft: false
 ---
 
-Before I get into a long winded exploration, I just want to say, I'm so incredibly impressed in you. I enjoy the challenge that you bring to everything that I say, or that you do. This isn't a winning or losing game, this is truly what it means to be alive, it's what I live for. Take away everything else, your intellect is quite profound, and I just want to take a moment to recognize it.
-
-Good morning! I hope you have a wonderful day, use your time wisely and accomplish exactly what you do.
-
-“We have two lives, and the second begins when we realize we only have one.”
-― Confucius
+>“We have two lives, and the second begins when we realize we only have one.” ― Confucius
 
 While it may seem silly to think about things this way, I'm sure you can see that while it's describing something in different terms, it's the same in that when you reach that detachment, or reach the realization, that's where you can truly be in the life you have.
 
@@ -36,5 +31,5 @@ When leading a team, the leader has to have a "map", this map should show a dest
 
 This has a nice parallel to day to day living. Who knows what our next 5 years looks like, who knows the next 10, what about 50? There's one thing to know at the very least, change will happen, it's either you enacting the change, or life enacting it for you. How are you prepared to handle it, how do you deal with it, how do you structure your life around that fundamental truth? What is your map, what are your guiding principles and what do you have in your arsenal to deal with that which is unknown?
 
-Ok so, super heavy thoughts for the AM. But in reflection, why not? This by no means is right, or wrong or anything special, this is one way to look at things. Something to consider.
+Ok by no means is right, or wrong or anything special, this is one way to look at things. Something to consider.
 

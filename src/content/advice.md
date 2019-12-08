@@ -34,7 +34,7 @@ For advice, even if some has already peppered in there: take action.
 
 Now that the general stuff is out of the way.
 
-I asked what excited you, but you said nothing. That’d be something I’d really look into. If you’re not excited about what you’re pitching me on, how can I get excited about it to join in? Maybe excitement is the wrong word? But when you talk to someone enthralled by the subject matter, can you help but be drawn in? Explore that a bit. Without that, throwing out ideas that make money is just that. Ideas that make money, if it’s not something of particular interest, then why not just do it and make money?
+If you’re not excited about what you’re pitching me on, how can I get excited about it to join in? Maybe excitement is the wrong word? But when you talk to someone enthralled by the subject matter, can you help but be drawn in? Explore that a bit. Without that, throwing out ideas that make money is just that. Ideas that make money, if it’s not something of particular interest, then why not just do it and make money?
 
 You have so many options for so many paths of your life. This is a crossroads moment for you, where you need to do some self reflection, reassessment and resolution for your life. It’s not easy, but committing to something is the next step, it won’t be the “right” choice, but it will take you down the road to the future. If I can dispense any advice it would be this: make the best choice you can in the moment, adjust accordingly down the road and always be looking towards the future, while appreciating the present. People and things come and go, money is a means to an end and life will always throw you curveballs. Live, love and experience all that is life.
 

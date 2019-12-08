@@ -18,12 +18,8 @@ Which brings us back to well then in a world which presents us with opportunitie
 Now with that though it is all about striking a balance. I know I've shared this with at least a few people, get to know enough to either be able to use it or understand it so you can explore further, but don't go in too deep; otherwise that it's now what you're doing (unless of course you want to be doing it).
 
 In this reflection:
-What are some skills you have that you cherish?
-What are some areas you are seeking improvement or growth or initial exploration?
-Where are you struggling to explore, do you need to?
+1. What are some skills you have that you cherish?
+2. What are some areas you are seeking improvement or growth or initial exploration?
+3. Where are you struggling to explore, do you need to?
 
 Sometimes it's important for us to take stock of where we are, where we've come from. You said something to me the other night when I was sharing my school work with you (I had forgotten a lot of the efforts and energies I had put into something I never use anymore, but the thoughts came rushing back), that I could do anything for anyone. With your travels, experiences, mind, discovery... there's a lot in that mind of yours, I'm convinced you're in the same boat; just still have a path you're on for that destination you're aiming to get to.
-
-Good morning, good morning, good morning! 
-
-You beautiful blessing, there is this notion that knowing you, is worth every ounce of effort to worship the ground you walk on. You are magic, you are life, you are the universe, be that power, for it is you and you are it.

@@ -28,5 +28,3 @@ So to build a basis for a healthy relationship, no matter the circumstances, is 
 If you can know yourself and understand you will grow and change and most likely are not static, and if you can understand how you hold expectations which might not be realistic, those have been the first two lessons in love I have to share. This all comes into the final piece to discuss later, how it all ties together in your expression of love, what that means and what you do to be complete and satisfied.
 
 Knowing something isn’t half the battle, it’s a quarter, the three quarters are the implementation and adjustments needed to integrate.
-
-So you pure expression of love in a world otherwise not fit to bear witness to it, what will this day bring of you? How will you grace us?

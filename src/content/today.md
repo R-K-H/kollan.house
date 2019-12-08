@@ -11,4 +11,4 @@ With everything that can happen in this world, what luck it is to know you. In a
 
 Take what is given today, turn it into yours.
 
-Goodmorning. Today is your day.
+Today is your day.
