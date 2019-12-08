@@ -1,0 +1,15 @@
+- id: speeches
+  description: Some of the greatest words ever spoken.
+  image: img/speeches-cover.jpg
+- id: to a mirror
+  description: A small series of reflective thoughts, said in the mirror.
+  image: img/speeches-cover.jpg
+- id: on love
+  description: A series on love.
+  image: img/speeches-cover.jpg
+- id: advice
+  description: Thoughts and feelings for how we get through life.
+  image: img/speeches-cover.jpg
+- id: me
+  description: Thoughts and feelings for how we get through life.
+  image: img/speeches-cover.jpg
