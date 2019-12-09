@@ -37,8 +37,17 @@ const Contact: React.FC = () => (
 
           <PostFullContent className="post-full-content">
             <div className="post-content">
-              <p>
-              </p>
+              <form name="contact" netlify>
+                <p>
+                  <label>Name <input type="text" name="name" /></label>
+                </p>
+                <p>
+                  <label>Email <input type="email" name="email" /></label>
+                </p>
+                <p>
+                  <button type="submit">Send</button>
+                </p>
+              </form>
             </div>
           </PostFullContent>
         </article>
