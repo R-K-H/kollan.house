@@ -20,5 +20,3 @@ I'm very fond of these memories and will likely carry the torch into the future.
 Anyways I wanted to explore joy this wonderful morning. What brings you joy, what are you thankful for, what memories do you have which just warm your heart? In a rough world and an unknown universe it's important to have those things we can count on to bring us back into a good state of being. It won't always work, but if you look back it's often the smallest little things that people do or say that can have such a profound memory. And at the end of the day, if that doesn't say, stop and smell the roses, I'm not sure what else will.
 
 So with your day today, take a moment to hold space for gratitude, find peace in the smallest of details and share your stories with the world.
-
-Good morning! I'm very thankful to share these stories with you, very thankful for having the opportunity to get to know you and hear your stories, it brings me so much joy.

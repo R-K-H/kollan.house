@@ -4,7 +4,7 @@ author: Kollan
 tags: ["Me"]
 image: img/jose-gabriel-ortega-castro-WwnZChEqz0E-unsplash.jpg
 date: "2019-09-15T10:00:00.000Z"
-draft: false
+draft: true
 ---
 
 My 20 year plan is to build spacecraft or spacecraft systems.
