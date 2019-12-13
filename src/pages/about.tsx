@@ -50,7 +50,7 @@ const About: React.FC = () => (
                   }
                 `}
                 // tslint:disable-next-line:react-this-binding-issue
-                render={(data: SiteNavLogoProps) => (
+                render={(data) => (
                   <div>
                     {data.logo ? (
                       <img src={data.logo.childImageSharp.fluid.src} alt="Kollan House" />

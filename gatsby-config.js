@@ -20,6 +20,13 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'artwork',
+        path: path.join(__dirname, 'src', 'content', 'img', 'artwork'),
+      },
+    },
+    {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [

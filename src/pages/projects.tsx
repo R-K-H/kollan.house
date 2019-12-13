@@ -18,10 +18,10 @@ const PageTemplate = css`
   }
 `;
 
-const Contact: React.FC = () => (
+const Projects: React.FC = () => (
   <IndexLayout>
     <Helmet>
-      <title>Contact</title>
+      <title>Projects</title>
     </Helmet>
     <Wrapper css={PageTemplate}>
       <header css={[outer, SiteHeader]}>
@@ -32,28 +32,14 @@ const Contact: React.FC = () => (
       <main id="site-main" className="site-main" css={[SiteMain, outer]}>
         <article className="post page" css={[PostFull, NoImage]}>
           <PostFullHeader>
-            <PostFullTitle>Contact</PostFullTitle>
+            <PostFullTitle>Projects</PostFullTitle>
           </PostFullHeader>
 
           <PostFullContent className="post-full-content">
             <div className="post-content">
-            <div className="form">
-              <form name="contact" netlify>
-                <p>
-                  <label>Name <input type="text" name="name" /></label>
-                </p>
-                <p>
-                  <label>Email <input type="email" name="email" /></label>
-                </p>
-                <p>
-                  <button type="submit">Send</button>
-                </p>
-              </form>
-              </div>
-              <div className="info">
-                <p>kollanh [at] gmail [dot] com</p>
-                <p>plus one five zero too - two nine four - five seven five one</p>
-              </div>
+              <p>
+              R-K-H/vogue-runway-scraper
+              </p>
             </div>
           </PostFullContent>
         </article>
@@ -63,4 +49,4 @@ const Contact: React.FC = () => (
   </IndexLayout>
 );
 
-export default Contact;
+export default Projects;
