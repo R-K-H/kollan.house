@@ -127,6 +127,7 @@ const IndexPage: React.FC<IndexProps> = props => {
         )}
         <meta property="og:image:width" content={width} />
         <meta property="og:image:height" content={height} />
+        <meta property="keywords" content={config.keywords.join(', ')} />
       </Helmet>
       <Wrapper>
         <header

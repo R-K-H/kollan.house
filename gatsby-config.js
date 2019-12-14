@@ -4,7 +4,9 @@ module.exports = {
   siteMetadata: {
     title: 'Kollan House',
     description: 'Operations, management, development. Reach out and we can do something amazing!',
-    siteUrl: 'https://kollan.house', // full path to blog - no ending slash
+    siteUrl: 'https://kollan.house',
+    keywords: ['personal blog, kollan house, kollan, kollan blog'],
+    author: '@kollanhouse',
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',

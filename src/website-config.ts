@@ -2,6 +2,7 @@ export interface WebsiteConfig {
   title: string;
   description: string;
   coverImage: string;
+  keywords: string[];
   logo: string;
   /**
    * Specifying a valid BCP 47 language helps screen readers announce text properly.
@@ -60,6 +61,7 @@ const config: WebsiteConfig = {
   title: 'Kollan House',
   description: 'Operations, management, development. Reach out and we can do something amazing!',
   coverImage: 'img/blog-cover.jpg',
+  keywords: ['personal blog, kollan house, kollan, kollan blog'],
   logo: '',
   lang: 'en',
   siteUrl: 'https://kollan.house',
