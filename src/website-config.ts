@@ -30,6 +30,10 @@ export interface WebsiteConfig {
    */
   github?: string;
   /**
+   * full url, no username
+   */
+  angel?: string;
+  /**
    * hide or show all email subscribe boxes
    */
   showSubscribe: boolean;
@@ -69,6 +73,7 @@ const config: WebsiteConfig = {
   twitter: 'https://twitter.com/kollanhouse',
   github: 'https://github.com/R-K-H',
   linkedin: 'https://linkedin.com/in/kollan',
+  angel: 'https://angel.co/kollan-house',
   showSubscribe: true,
   mailchimpAction: 'https://house.us4.list-manage.com/subscribe/post?u=68b29440fe8e9d7d7c3fed2d8&amp;id=1878f3bf5a',
   mailchimpName: 'b_68b29440fe8e9d7d7c3fed2d8_1878f3bf5a',

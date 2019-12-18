@@ -10,6 +10,7 @@ import Facebook from '../icons/facebook';
 import Twitter from '../icons/twitter';
 import Github from '../icons/github';
 import Linkedin from '../icons/linkedin';
+import Angel from '../icons/angel';
 import SubscribeModal from '../subscribe/SubscribeOverlay';
 import SiteNavLogo from './SiteNavLogo';
 
@@ -199,6 +200,17 @@ class SiteNav extends React.Component<SiteNavProps> {
                 rel="noopener noreferrer"
               >
                 <Github />
+              </a>
+            )}
+            {config.angel && (
+              <a
+                css={SocialLink}
+                href={config.angel}
+                title="angel"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <Angel />
               </a>
             )}
           </SocialLinks>
