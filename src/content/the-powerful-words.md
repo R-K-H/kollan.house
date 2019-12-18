@@ -9,7 +9,7 @@ draft: false
 
 How do we choose what words we use to express ourselves? A lot of our interactions are predicated on those choices, how we “get our foot through the door” or someone likes us, might very well be a string of characters on some screen somewhere if only in reflection. 
 
-Really enjoying the observations of Orwell (http://www.transaction.net/web/tutor/text/orwell.html) from the 1940s! He’s by far one of my favorite writers and not for Animal Farm or 1984 (although very brilliant) but for his exploration and careful consideration of the human condition.
+Really enjoying the observations of [Orwell from the 1940s](http://www.transaction.net/web/tutor/text/orwell.html)! He’s by far one of my favorite writers and not for Animal Farm or 1984 (although very brilliant) but for his exploration and careful consideration of the human condition.
 
 One of the most simple (yet hard to break from) word use cases is need vs want. It’s interesting to see how people use it interchangeably, as if they mean the same thing. Convincing your brain that a want is a need, is such a trick, letting the brain win.
 
