@@ -24,9 +24,10 @@ I’m sorry, even if nothing happens. It’s maddening to think about. The fact 
 Not in proper taste (I won’t share the song name), but something that reminds me of what it really means to be bound in this world. 
 
 >Always remember, there was nothing worth sharing
-
 >Like the love that let us share our name
 
 Share name, share the building blocks of life, but that’s not where it stops. And it should never. For we build family wherever our travels take us, and we live for this, in this, through this. So above all else, I just want to share in that love.
 
 This isn’t about me though, this is about you. What do I say? Well I can’t say anything. Words are not to our advantage, why would they be? Just know that in all that we do, all that we share in, there is love, there is our ability to connect, and in that the infinite, for that infinite is us and we, whether we like it or not, are all a part of life, even without it.
+
+<iframe src="https://open.spotify.com/embed/track/2cqqh4lhzUaE3guIHsIy3O" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
