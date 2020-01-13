@@ -6,6 +6,7 @@ import * as React from 'react';
 import styled from '@emotion/styled';
 import { css } from '@emotion/core';
 import { Helmet } from 'react-helmet';
+import HyvorTalk from 'hyvor-talk-react';
 
 import AuthorCard from '../components/AuthorCard';
 import Footer from '../components/Footer';
@@ -295,7 +296,7 @@ const PageTemplate: React.FC<PageTemplateProps> = props => {
                 </PostFullImage>
               )}
               <PostContent htmlAst={post.htmlAst} />
-
+              <HyvorTalk.Embed websiteId={161} id={props.pathContext.slug} loadMode="scroll" />
               {/* The big email subscribe modal content */}
               {config.showSubscribe && <Subscribe title={config.title} />}
 

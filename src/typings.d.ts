@@ -25,3 +25,5 @@ declare module 'rehype-react' {
   }
   export default RehypeReact;
 }
+
+declare module 'hyvor-talk-react';
