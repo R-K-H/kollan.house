@@ -13,3 +13,6 @@
 - id: me
   description: Thoughts and feelings for how we get through life.
   image: img/speeches-cover.jpg
+- id: development
+  description: Exploration on development and code.
+  image: img/speeches-cover.jpg
