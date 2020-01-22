@@ -23,4 +23,4 @@ There is plenty of love out in the world, it starts with you, loving yourself, a
 
 Keep your head up, even in the hard times, it is not a reflection of you, but a reflection of where you’ve come from. It is not defining, it is a learning opportunity. It is not the world, it is a singular person.
 
-It can be hard, it will be challenging, but through those moments we learn something about ourselves and during that discovery we grow. And in that growth some day you will be invested in something where all your needs met and never have to deal with anything like this ever again.
+It can be hard, it will be challenging, but through those moments we learn something about ourselves and during that discovery we grow. And in that growth some day you will be invested in something where all your needs are met and never have to deal with anything like this ever again.
