@@ -2,58 +2,59 @@
 title: "Development Setup"
 author: Kollan
 tags: ["Development"]
-image: img/cedric-letsch-pORU_eRvvQ4-unsplash.jpg
-date: "2019-12-09T10:00:00.000Z"
-draft: true
+image: img/maksym-kaharlytskyi-Q9y3LRuuxmg-unsplash.jpg
+date: "2020-01-31T10:00:00.000Z"
+draft: false
 ---
 
-# Git
-First is I love to work in git, it’s honestly one of the greatest things for history, rollbacks, deploys etc. If you’re working from a non-git folder or install, I would pull down from the server, setup a private repo on github and then do a git init and set the remote to the newly created git. This will provide you with a way to interface with this repository, you can add other people to it, you can manage issues etc.
+You know I’ve read a lot of posts about setup, I’ve done a lot of copy pasting and in general I’ve really enjoyed to see how people solve their problems. I wanted to use that as a launch point for a few new posts about how I go about work, what I use, how I’ve solved some problems (and by no means elegant) just for the sake of practice and hopefully informative for you dear audience member.
 
-A few notes here you’ll need to be in terminal, do:
+I’d love to hear how I could have done something better, or why I should do something another way, I’m no developer, I’ve rarely worked in teams for development so I’m rather limited on my “proper” way to do things. So in summary, be nice, but be hard. I’m here to learn and I can’t wait to come back to these in a year and see what I see differently.
 
-```
-git init
-git add .
-git commit -am "first commit"
-git remote add origin <your url in github project>
-git push -u origin master
-```
+# Hardware
+Mid 2014 MacBook Pro 15” - i7 2.2GHz 16GB Ram and 250GB SSD
 
-This will effectively add all the files and push them to the origin which is located on github. Now whenever you make a change (which isn’t testing just fiddling around, but good work which you want to save progress on), you just do a `git commit -am “<message>”` and you should be good to go once you’re ready to do a git push origin master.
+# Software
+Now this thing could be a beast in of itself, how far down the rabbit hole of software do you go? I guess I’ll try to touch on the main points and maybe fill in if needs be.
 
-I won’t be going over branches in this document, but I would be happy to explain in detail how branching works, why it’s good to use etc.
+## MacOS
+I started on Mac maybe a few years ago, and coming from Windows it was a lot nicer for using it like Linux. Now Windows has the Ubuntu subsystem which is nice, but it’s still quite a pain with Docker (when I last used it). I do really like homebrew with Mac, making things easy to install, although I try to do things like that as sparingly as possible, if I’m going to setup development and need to use a software, I’ll almost always try to move it into a container (Docker). I like that approach as it doesn’t mess up my base system (host machine) with all kinds of strange tendrils. Even now with Golang I’ve found it super easy to just let the docker container do it’s thing (which was not the case a year ago, Go was messing up my dev setup and structure of how I do things). Anyways, I’m very happy with the Mac ecosystem, happy with the hardware and keeping things simple.
 
-# Development Environment
-## Containerization
-I almost always use Docker (https://www.docker.com/) for my development. An easier way to understand how it works is that instead of installing everything into one system (say into the operating system) you can build instead your web server into its own isolated environment, for example if it needs a different version of linux, or a special module which conflicts with something else you want to do. This also allows you to bring down a service like your web server, and still operate the database without shutting it down, allowing for rolling updates or adjustments to core services without disrupting others. This also allows for scale, too many requests? Well let’s just add another container with another webserver in it, these are some of the cool things you can do with containers.
+## SublimeText
+I know a lot of stuff these days may be considered better or more complete or yada yada, I’m just really happy with my setup and the plugins and how I use it. It did take me quite a long time to get to this point, but I think I like a stripped down text editor and then building it up as kinda a fun, mix and match (similar to the way I’ve seen people build their terminal with all kinds of fancy things). I will say it’s not for everyone given some of the new stuff out there now, but I like it and it gets the job done for me. Plus I paid for it it’s great tool and the developer deserves it.
 
-Why do you choose to use it for development? It’s quite simple, space and control, first you’re not building entire virtual machines here, so you’re building slimmed down versions of linux with bare requirements for the system to work. Second you can control almost every aspect of what you need to get a service to run. Does your application require PHP 5.6 and PHP7? Well we can run two different containers and don’t need to mess with one which might mess with the other as if it was on the same system. This also means we really don’t care where this system operates either, as long as docker can be installed, you don’t care anything about the server where it’s located (making dev and production environments almost irrelevant).
+## Docker
+Yep, gotta have it. Although I’m not a great user of it, I’m not sure how things work exactly, how to save space, why I have so many images and things just sitting around. I mean I get through my system prune every so often, but I’d like to know more than I do right now as far as management goes. I use Docker Compose for my projects and have really liked it. I’m sure it might be better to use something like Jenkins or Ansible for my builds and management of it all but for the stuff I work on, it’s great to build three systems in their own way and be able to have them all run in their own containers.
 
-### LEMP
-So for most PHP applications you’ll be using LEMP / LAMP, although I would say for more common use today Nginx is preferred so a LEMP stack is what you’ll more likely run into. While both Apache and Nginx are web servers, they slightly vary with respect to their configuration files and abilities, though almost all of them match one another these days.
+## Postico
+I’m a fan of my GUIs, and coming from MySQL into Postgres I just need to have something visually (I hope you’re getting a sense of what kind of person I am through all of this).
 
-For a bit of a howto this link https://www.howtoforge.com/tutorial/dockerizing-lemp-stack-with-docker-compose-on-ubuntu/ provides good information, if you’re just getting started though I would honestly just look at this which is where someone has already setup a containerized LEMP stack https://github.com/atillay/docker-lemp. You can look in the docker-compose.yml to see how things are setup, how many containers are running etc. It’s just a configuration file and with that it knows where to pull things from, what it needs to do with ports etc. It can be quite overwhelming, but it’s super powerful when you want to build.
+## Zsh and iTerm
+Dunno someone set it up for me and I’ve stuck with it.
 
-#### Setup
-Install Docker - https://docs.docker.com/docker-for-mac/install/
-Install ctop - https://github.com/bcicen/ctop (I like ctop as it’s like top but for containers so you can just type in ctop and get a list of running containers and get into each one with more information)
+## Postman
+Must have for any API requests and testings. I’ve really missed out on a long number of years by not having a tool like this and using it.
 
-Docker has a nice GUI tool if you’re uncomfortable with the command line called Kitematic https://kitematic.com/ which I think will come bundled with the Docker install, if not you can install the Docker Toolbox with the Kitematic link.
+## Some of the more smaller things but still use very regularly
+Gatsby (React)
+Their CLI tool and all the stuff just packed in together, just makes building sites so easy. Hot reloading so if you’re more on the front end it’s just really nice.
 
-Once that’s installed you’ll see something in the top left of your toolbar which will look like a little whale, from there you can control things like restarting, updating Docker as a whole.
+## Various websites
+Stackoverflow
+Mozilla MDN
+Digital Ocean’s tutorials
 
-Some quick commands for docker are:
+w3Schools needs to die though I’ve seen the google script you can put in where you exclude, I just want it by default.
 
-`docker build <container name>` (you can also use this as docker build if you only have one dockerfile in the directory)
-`docker exec -it <container name> bash` (essentially sshes you into the container, word of warning here, while it will look like a normal linux system, it may not have things which you would expect)
+# So what’s my poison?
+Mostly Node right now, I came from PHP and then into a bit of Ruby (Rails) back into PHP then the full swing over to JS. I like how hacky it is, the way the structure works and how forgiving I find it. But it does let me get into trouble where as something like Golang (which I recently built an API with) doesn’t let me. I was thinking about typescript and using that, the theme for this site and the site itself is typescript so I guess I’d just need a bit more experience on how to truly use it 100%.
 
-From here we’ll want to create either individual dockerfiles or use docker compose, I’ll provide both as examples, however for a project that requires certain things, I typically go with docker compose, however if you have several projects it might be best to keep things like your DB in its own container and not build one for each of your projects, that just depends on how you want to configure things, if you run more than one DB container you’ll need to setup the ports otherwise you’ll get an error where the container is trying to listen on a port which is already taken (and it won’t boot up).
+I’m not sure I have a great excuse for why I like JS the way I do, but I do find it nice and like how the syntax is changing and shorthand for things, I think it’s cool.
 
-Dockerfiles are essentially recipes instructing how to build the system. They will typically start with a base image, for example https://hub.docker.com/_/nginx is a prebuilt Dockerfile for nginx, MOST of the time these are sufficient for your day to day use but if you need more control you might build off of linux first and config for additional things you need.
+So from here I think I’m going to go into some details in a few posts. More of how I’ve done things and then some code and solutions I’ve found which were pretty nifty (I didn’t see anyone solving it the way I have) and we can go from there.
 
-To follow along with the Nginx example:
+Git / Docker / Node / Postgres
+React / Gatsby / Netlify
+Building A Golang API Server
+Gatsby DataStore Without LocalStorage
 
-FROM debian:buster-slim
-
-This section right here is essentially saying get this installation and build on top of that. Everything than follows from is building on top of what you retrieved in from.
