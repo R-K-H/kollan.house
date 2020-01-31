@@ -16,6 +16,9 @@ const PageTemplate = css`
     background: #fff;
     padding-bottom: 4vw;
   }
+  button {
+    border: 1px solid #000;
+  }
 `;
 
 const Contact: React.FC = () => (

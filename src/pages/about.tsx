@@ -67,61 +67,128 @@ const About: React.FC = () => (
                 mother.  Perhaps it was those early responsibilities that prepared him for a
                 life of running things.
               </p>
+              
               <p>
-                Kollan grew up looking after his younger brother and sister while his mother worked long hours to support them. Often they had to rely on food stamps, but life was good apart from that.  What he recalls about his Christian elementary school was that his essay on the adaptation of plants got a low grade because it championed evolution, and such ideas were not welcome. However, his father in particular encouraged scientific thought, and became more of an influence when Kollan lived with him in Kentucky through his high school years.
-              </p>
-              <p>
-                Kollan moved out on his own at 18, and suffered through a period of depression.  Engineering school called, and he started working to support himself. UPS, based in Kentucky, had program to fund students if they would work the third, overnight shift. Kollan was soon promoted to manager and took management training. Before too long he was supervising 40 people. 
-              </p>
-              <p>
-                But it was difficult to keep up with his studies, and Kollan decided to focus on engineering. In his third year, his aptitude for business was evident as he started getting work building websites and helping people with their computers. He was ahead of the curve because he understood the value of having an online presence, but it was an uphill battle to persuade others.
+               Kollan has worn many different hats, and has develop his innate abilities to be adaptable and
+               problem solve.  He has enjoyed applying the scientific method he learned as an engineer to
+               efficiently solve challenges that involve humans. Now Kollan has a 20-year plan to be successful
+               in business – and he then he wants to build a spaceships.
               </p>
               <p>
-                Kollan’s early goal was to build spaceships. He had wanted to be pilot, and he earned his private pilot’s license.  He also loved to make things with his hands, and won an art scholarship – which he declined because he realized that he was unlikely to turn it into a successful career.  Elon Musk was his hero and it was the early days of Burt Rutan’s race into space. When he realized that it took a million dollars to fund space travel, and that it was mainly wealthy businessmen who had those resources, he turned his attention to business studies. 
+               Kollan’s fascination with the operational side of business stems from his childhood,
+               when he spent many hours figuring out how to build and launch a spaceship. His love of
+               science and of running projects comes from those early days too. As a young engineering student,
+               he paid for his tuition by working part-time for UPS, and was supervising a team of 40 people
+               before he left. That management experience paid off when Kollan turned his attention to building
+               online businesses and successful ventures in the world of cryptocurrencies.
               </p>
+              <h2>SUMMARY</h2>
               <p>
-                Around this time, Kollan’s father was involved in some startups, such as a black limo taxi service for airline passengers. Kollan worked with him and learned quickly that there were a lot of regulatory bodies who needed to be satisfied.  Ultimately, that business failed, but it gave him a good idea of what was needed to survive.  He and a friend started another limo service, this time shuttling people around who were attending the Kentucky Derby. However, his friend proved unreliable, and he left Kollan to deal with a shambles. 
+                Highly skilled in the technology industry with mastered abilities for strategic planning,
+                team ­oriented project management, individual professional development and thoughtful
+                leadership directed towards corporate success. Developed company recruitment, onboarding,
+                training and culture processes and systems. With 10+ years experience building B2B solutions
+                such as merchant services, applications, brand identity, marketing, business analysis, eCommerce,
+                web and application development, print materials and event planning.
               </p>
-               <p>
-                Kollan was left feeling depressed and living in his parents basement. Even with help for the depression, he could find no meaning in his life, and he attempted suicide.  He was saved from a fatal  jump from a 7-storey building by getting caught up in some wires. He was surrounded by love as a result and it was almost as though he had died and gone to heaven.  People were worried that he would try suicide again, but he felt he had survived his best efforts to kill himself, so he focused on finding meaning by reading such authors as Eckhart Tolle.
+              <h2>SKILLS</h2>
+              <ul>
+                <li>Strategic Planning</li>
+                <li>Quality Control</li>
+                <li>Process Improvement</li>
+                <li>Budget Planning & Cost Control</li>
+                <li>Project Management</li>
+                <li>Product Management</li>
+                <li>Client Relations</li>
+                <li>Market Analysis</li>
+                <li>Conflict Resolution</li>
+                <li>Crisis Management</li>
+                <li>Marketing Strategy Development</li>
+                <li>Business Analysis</li>
+                <li>Management</li>
+                <li>Team Building</li>
+                <li>Data Analytics</li>
+                <li>Business Development</li>
+                <li>Social Media Marketing</li>
+                <li>Financial Management</li>
+              </ul>
+              <h2>WORK HISTORY</h2>
+              <h3>Investabit Capital, Inc. (CTR Group)</h3>
+              <h4>Chief Operating Officer</h4>
+              Toronto, Ontario | Victoria, British Columbia
+              2017 - 2019
+              <p>Startup focused on Machine Learning and Artificial Intelligence based CryptoAsset investing technology. Developed the business practices and systems, deploying GSuite, Wrike, Github and Slack for team management. Built employee contracts, contractor agreements, LOIs, and partnership agreements. Ran sprint planning, culture exercises, day to day operations, as well SR&ED grant application (awarded $300k in Tax Credits).
               </p>
-              <p>
-               Life took a new turn when Kollan met his future business partners at a Hackathon in Washington. They invited him to move from Kentucky to join them in Baltimore to work in the field of cryptocurrency. Even though he was still limping from his fall, he moved in with them in their cramped quarters and that was the start of a very exciting time when they motivated each other to do well.
+              <h3>CTR Capital (CTR Group)</h3>
+              <h4>Chief Operating Officer</h4>
+              Victoria, British Columbia
+              2018 - 2019
+              <p>Startup venture capital fund and investment portfolios (specializing in CryptoAssets). Developed investment tracking, onboarding, marketing and performance reporting. Worked with the General Partners to develop the investment thesis based on the UNs 17 SDGs. Performed due diligence on over 50 deals as well as managed the process and structure for deal flows. Assisted in the solicitation and raise of $2.5M+.
               </p>
-              <p>
-               Then Kollan came to BC - During the past 4 years in BC, Kollan has struggled to be a successful entrepreneur and feels he has grown and found his own voice.  He has discovered that there is a greater willingness to collaborate on the west coast and fewer man-eat-man business dealings. 
+              <h3>Abundance Digital (CTR Group)</h3>
+              <h3>Management Consultant</h3>
+              Victoria, British Columbia
+              2017 - 2018
+              <p>Consulted to develop automation for the deployment of a large number of advertising accounts across many different networks, leveraging hardware and software solutions. Lead the development and integration for automated transaction processing using PLAID for account management and advertising spend. Developed SQL queries to analyze account performance and business statistics for identifying troubled advertisers and potential fraud.
               </p>
-              <p>
-               Kollan has worn many different hats, and has develop his innate abilities to be adaptable and problem solve.  He has enjoyed applying the scientific method he learned as an engineer to efficiently solve challenges that involve humans. Now Kollan has a 20-year plan to be successful in business – and he then he wants to build a spaceship.
+              <h3>Adlumix</h3>
+              <h3>Management Consultant</h3>
+              Vancouver, British Columbia
+              2015 - 2017
+              <p>Consulted with team for the development of obfuscation techniques to circumvent detection technologies for advertising accounts. Provided technology to allow advertisers to circumvent such restrictions and policies.
               </p>
-              <p>
-               Kollan’s fascination with the operational side of business stems from his childhood, when he spent many hours figuring out how to build and launch a spaceship. His love of science and of running projects comes from those early days too. As a young engineering student, he paid for his tuition by working part-time for UPS, and was supervising a team of 40 people before he left. That management experience paid off when Kollan turned his attention to building online businesses and successful ventures in the world of cryptocurrencies. Looking for more meaning in his work, Kollan is now committed to the values of conscious capitalism. The spaceship will still have to wait while he launches new initiatives to address the challenges right here on earth.
+              <h3>Conscious Thought Revolution (CTR)</h3>
+              <h3>Partner</h3>
+              Vancouver, British Columbia
+              2015 - 2019
+              <p>CTR is an umbrella company which owns and operates several businesses in the technology space. Within the company group I was responsible for the development of Human Resources initiatives, culture development, corporate organization, messaging, branding and content curation. We developed a world class recruiting and onboarding process of which for the corporate entities have interviewed over 300 people and hired 15+ (fired 5).
               </p>
+              <h3>AllZenn</h3>
+              <h3>Co-Founder</h3>
+              Baltimore, Maryland
+              2014 - 2015
+              <p>Startup focused on the management of web based business identity, branding and marketing. Developed hiring protocol, trained designers, designed and developed client pitches, designed brand and identity development, operated advertising and digital marketing accounts.
+              </p>
+              <h3>Emercor</h3>
+              <h3>Co-Founder</h3>
+              Baltimore, Maryland
+              2014 - 2015
+              <p>Startup focused on CryptoAsset market, management consulting, investment fund and technology. Developed project proposals, maintained client relationships, due diligence and research, economical modeling, technology assessment.
+              </p>
+              <h3>Calobrace Plastic Surgery Center</h3>
+              <h3>Social Media & Technology Specialist</h3>
+              Louisville, Kentucky
+              2008 ­- 2015
+              <p>Plastic surgery center and medical spa servicing innovative treatments and personal well being. Responsible for web identity, branding and message management. Assessed and evaluated the performance of contracted advertising and marketing accounts. Lead the development of social media expansion and social media manager role. Advised and assessed technology implementation and future planning.
+              </p>
+              <h2>EDUCATION</h2>
+              <p>(Incomplete) Mechanical Engineering - 2006-2009
+              University of Louisville - J. B. Speed School of Engineering</p>
+
+              <h2>CERTIFICATIONS</h2>
               <ul>
                 <li>
-                  Raised and educated in Kentucky.
+                  <p>
+                    Private Pilots License (3536247)
+                  </p>
+                  <p>
+                    Federal Aviation Administration
+                  </p>
                 </li>
                 <li>
-                  Early commitment to the environment and scientific solutions.
+                  <p>
+                    Certified Bitcoin Professional (9cf17c)
+                  </p>
+                  <p>
+                    CryptoCurrency Certification Consortium
+                  </p>
                 </li>
-                <li>
-                  Ran a home from a young age to help his single mother and younger siblings.
-                </li>
-                <li>
-                  Excelled at managing UPS teams, focussing on logistics.
-                </li>
-                <li>
-                  Studied engineering at university.
-                </li>
-                <li>
-                  Lead a number of successful startups.
-                </li>
-                <li>
-                  Built online businesses assisting others to benefit from web traffic.
-                </li>
-                <li>
-                  Used his entrepreneurial talents to thrive in the world of cryptocurrencies.
-                </li>
+              </ul>
+              <h2>LINKS</h2>
+              <ul>
+                <li>https://github.com/R-K-H/</li>
+                <li>https://www.linkedin.com/in/kollan/</li>
+                <li>https://angel.co/kollan-house</li>
               </ul>
             </div>
           </PostFullContent>
