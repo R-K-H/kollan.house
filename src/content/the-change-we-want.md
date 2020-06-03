@@ -25,9 +25,11 @@ This is how we get there, through being uncomfortable and it’s those with the 
 
 When I wrote about [what change shall we have](https://kollan.house/what-change-shall-we-have/), I didn't expect things to be the way they are today. I didn't expect to have the events happen as they have, but I am sure I wouldn't wish it on anyone. But it has been wished and continues to be wished. Semantics are everything. Watching [Michael Che make light of the ridiculousness of the simple request](https://www.youtube.com/watch?v=AeN_SVoJet0) and having it be denied. To semantics which should honestly be the common vernacular of a meaningful conversation:
 
-	"It's horrible that an innocent black man was killed, but destroying property has to stop"
-	to
-	"It's horrible that property is being destroyed, but killing innocent black men has to stop"
+> "It's horrible that an innocent black man was killed, but destroying property has to stop"
+
+to
+
+> "It's horrible that property is being destroyed, but killing innocent black men has to stop"
 
 How is it even a discussion? A recent conversation said: "Well consider the value of life versus the property value which has been destroyed." How have we cultivated such a mindset? How is this a talking point? I suppose in a pandemic marred with such considerations it shouldn't be that big of a surprise when economic impact versus death, death is the "route" chosen.
 
