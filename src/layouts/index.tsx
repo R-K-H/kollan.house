@@ -1,4 +1,4 @@
-import { Global, css } from '@emotion/core';
+import { Global, css } from '@emotion/react';
 import { darken, lighten } from 'polished';
 import * as React from 'react';
 import Helmet from 'react-helmet';

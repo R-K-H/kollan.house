@@ -1,6 +1,6 @@
 import { graphql, Link, StaticQuery } from 'gatsby';
 import * as React from 'react';
-import { css } from '@emotion/core';
+import { css } from '@emotion/react';
 
 import config from '../../website-config';
 

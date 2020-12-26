@@ -1,6 +1,6 @@
 import { graphql } from 'gatsby';
 import * as React from 'react';
-import { css } from '@emotion/core';
+import { css } from '@emotion/react';
 import Helmet from 'react-helmet';
 
 import Footer from '../components/Footer';

@@ -4,7 +4,7 @@ import Wrapper from '../components/Wrapper';
 import SiteNav from '../components/header/SiteNav';
 import { SiteHeader, outer, inner, SiteMain } from '../styles/shared';
 import * as React from 'react';
-import { css } from '@emotion/core';
+import { css } from '@emotion/react';
 
 import { PostFullHeader, PostFullTitle, NoImage, PostFull } from '../templates/post';
 import { PostFullContent } from '../components/PostContent';

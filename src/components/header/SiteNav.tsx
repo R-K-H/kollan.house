@@ -2,7 +2,7 @@
 import { Link } from 'gatsby';
 import * as React from 'react';
 import styled from '@emotion/styled';
-import { css } from '@emotion/core';
+import { css } from '@emotion/react';
 
 import { SocialLink } from '../../styles/shared';
 import config from '../../website-config';

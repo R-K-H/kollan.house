@@ -4,7 +4,7 @@ import * as _ from 'lodash';
 import { lighten } from 'polished';
 import * as React from 'react';
 import styled from '@emotion/styled';
-import { css } from '@emotion/core';
+import { css } from '@emotion/react';
 
 import { colors } from '../styles/colors';
 import { PageContext } from '../templates/post';
