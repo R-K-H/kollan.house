@@ -41,7 +41,7 @@ const Contact: React.FC = () => (
           <PostFullContent className="post-full-content">
             <div className="post-content">
             <div className="form">
-              <form name="contact" netlify>
+              <form name="contact" method="POST" data-netlify="true">
                 <p>
                   <label>Name <input type="text" name="name" /></label>
                 </p>
