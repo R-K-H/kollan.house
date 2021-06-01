@@ -61,7 +61,7 @@ const About: React.FC = () => (
                 )}
               />
               <p>
-                As the son of a physician in the military, Kollan had been used to moving around.
+                As the son of a physician in the military, Kollan had gotten used to moving around.
                 But he became the man of the house when he was only 5.  His parents were separating
                 and as the older brother of two younger siblings, he felt it was up to him to help his
                 mother.  Perhaps it was those early responsibilities that prepared him for a
@@ -70,15 +70,15 @@ const About: React.FC = () => (
               
               <p>
                Kollan has worn many different hats, and has develop his innate abilities to be adaptable and
-               problem solve.  He has enjoyed applying the scientific method he learned as an engineer to
+               problem solve.  He has enjoyed applying the scientific method he learned in school for engineering to
                efficiently solve challenges that involve humans. Now Kollan has a 20-year plan to be successful
-               in business – and he then he wants to build a spaceships.
+               in business – and then he wants to build spaceships.
               </p>
               <p>
                Kollan’s fascination with the operational side of business stems from his childhood,
-               when he spent many hours figuring out how to build and launch a spaceship. His love of
+               when he spent many hours figuring out how NASA could build and launch spacecraft. His love of
                science and of running projects comes from those early days too. As a young engineering student,
-               he paid for his tuition by working part-time for UPS, and was supervising a team of 40 people
+               he paid for his tuition by working part-time for UPS, and was supervising a team of 30 people
                before he left. That management experience paid off when Kollan turned his attention to building
                online businesses and successful ventures in the world of cryptocurrencies.
               </p>
@@ -86,10 +86,10 @@ const About: React.FC = () => (
               <p>
                 Highly skilled in the technology industry with mastered abilities for strategic planning,
                 team ­oriented project management, individual professional development and thoughtful
-                leadership directed towards corporate success. Developed company recruitment, onboarding,
+                leadership directed towards corporate success. He's developed company recruitment, onboarding,
                 training and culture processes and systems. With 10+ years experience building B2B solutions
                 such as merchant services, applications, brand identity, marketing, business analysis, eCommerce,
-                web and application development, print materials and event planning.
+                web and application development, print materials, and even event planning.
               </p>
               <h2>SKILLS</h2>
               <ul>
